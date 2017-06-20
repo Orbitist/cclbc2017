@@ -1,0 +1,12 @@
+permalink: :title
+
+highlighter: rouge
+markdown: kramdown
+
+title : CCLBC Annual Report 2017
+
+production_url : labs.orbitist.com/cclbc2017
+
+baseurl : /cclbc2017
+
+timezone : America/New_York

@@ -34,11 +34,12 @@
   <link href='/css/full-page-hero.css' rel='stylesheet' />
   <link href='/css/hero.css' rel='stylesheet' />
   <link href='/css/footer.css' rel='stylesheet' />
+  <link href='/css/odometer.css' rel='stylesheet' />
 </head>
 
 	<body>
 		<nav class="navbar navbar-default navbar-fixed-top">
-  <div class="container">
+  <div class="container-fluid">
     <div class="navbar-header">
       <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
         <span class="icon-bar"></span>
@@ -76,12 +77,39 @@
 
 <p>The Chautauqua County Land Bank Corporation (CCLBC) was designated as one of the first five land banks in NYS, by authority of the New York State Land Bank Act, in 2012. By 2016, the Land Bank secured over $2.86 million dollars in public grant funding, and leveraged over $1.65 million in private investment in the interventions of more than 173 vacant or abandoned properties in the county.</p>
 
+<div class="number">
+  <div class="col-sm-2">
+    <span class="fa fa-dollar number-icon"></span>
+  </div>  
+  <div class="col-sm-10">
+    <div id="odometer" class="odometer private-investment">0.00</div>
+    <script>
+      $(window).scroll(function() {
+         var hT = $('.private-investment').offset().top,
+             hH = $('.private-investment').outerHeight(),
+             wH = $(window).height(),
+             wS = $(this).scrollTop();
+          console.log((hT-wH) , wS);
+         if (wS > (hT+hH-wH)){
+           setTimeout(function(){
+               $('.private-investment').html(1.65);
+           }, 1000);
+         }
+      });
+    </script>
+  </div>
+  <div class="number-caption">Million in private investment</div>
+</div>
+
 <div class="footer">
 
 </div>
 
 
 		<script src="/js/navbar.js"></script>
+
+<!-- Odometer -->
+<script src="/js/odometer.min.js"></script>
 
 	</body>
 </html>

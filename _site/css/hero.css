@@ -1,0 +1,12 @@
+.hero {
+  height: 80vh;
+  width: 100%;
+}
+
+.hero .title-block {
+  position: absolute;
+  top: 33vh;
+  width: 100%;
+  text-align: center;
+  color: white;
+}

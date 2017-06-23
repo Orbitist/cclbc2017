@@ -12,7 +12,7 @@
   bottom: 0;
   left: 0;
   width: 100%;
-  background-color: rgba(0,0,0,0.3);
+  background-color: rgba(255,255,255,0.25);
   z-index: 1;
 }
 
@@ -20,7 +20,7 @@
   position: fixed;
   z-index: 1;
   text-align: center;
-  top: 20vh;
+  top: calc(50vh - 250px);
   width: 100%;
   color: white;
   font-family: "Work Sans",Helvetica,Arial,sans-serif;
@@ -35,6 +35,8 @@
   padding: 40px;
   width: 100%;
   max-width: 100%;
+  line-height: 1.5em;
+  text-shadow: 1px 1px 3px #333333;
 }
 
 .background-video {

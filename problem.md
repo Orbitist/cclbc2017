@@ -4,6 +4,30 @@ title: "The Problem"
 lead: "Vacancy & Blight in Chautauqua County"
 image: "img/sink_repair.jpg"
 ---
+<div class="number">
+  <div class="col-sm-2">
+    <span class="fa fa-percent number-icon"></span>
+  </div>  
+  <div class="col-sm-10">
+    <div id="odometer" class="odometer vacancy">00.0</div>
+    <script>
+      $(window).scroll(function() {
+         var hT = $('.vacancy').offset().top,
+             hH = $('.vacancy').outerHeight(),
+             wH = $(window).height(),
+             wS = $(this).scrollTop();
+          console.log((hT-wH) , wS);
+         if (wS > (hT+hH-wH)){
+           setTimeout(function(){
+               $('.vacancy').html(22.4);
+           }, 100);
+         }
+      });
+    </script>
+  </div>
+  <div class="number-caption">Vacancy in the Chautauqua County in 2010</div>
+</div>
+
 CCLBC serves all of Chautauqua County, urban and rural, with its 44 municipalities and 134,000 residents occupying 1500 square miles in some of the country’s oldest housing stock. Vacancy in the county was reported at 22.4% in the 2010 census (including seasonal vacancy), almost twice the national average. Blight in the form of vacant and abandoned homes has persisted both as a result of the foreclosure crisis as well as from persistent economic and population decline across the county.
 
 The Land Bank focuses on a balanced strategy targeting highly distressed neighborhoods (primarily through the demolition program), transitional neighborhoods (rehabs for stabilization), and gateway/main streets (rural rehab and demolition). Targeted parcels are prioritized based on local input and our assessment of where we can achieve the maximum impact.

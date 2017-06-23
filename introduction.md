@@ -2,7 +2,7 @@
 layout: page
 title: "Introduction"
 lead: "This is a lead."
-image: "/img/westfield_home.jpg"
+image: "img/westfield_home.jpg"
 ---
 # Mission of the Chautauqua County Land Bank Corporation
 

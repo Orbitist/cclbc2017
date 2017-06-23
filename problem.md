@@ -2,7 +2,7 @@
 layout: page
 title: "The Problem"
 lead: "Vacancy & Blight in Chautauqua County"
-image: "/img/sink_repair.jpg"
+image: "img/sink_repair.jpg"
 ---
 CCLBC serves all of Chautauqua County, urban and rural, with its 44 municipalities and 134,000 residents occupying 1500 square miles in some of the country’s oldest housing stock. Vacancy in the county was reported at 22.4% in the 2010 census (including seasonal vacancy), almost twice the national average. Blight in the form of vacant and abandoned homes has persisted both as a result of the foreclosure crisis as well as from persistent economic and population decline across the county.
 

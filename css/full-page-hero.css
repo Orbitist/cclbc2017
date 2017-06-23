@@ -6,6 +6,16 @@
   width: 100%;
 }
 
+.full-page-hero-overlay {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  background-color: rgba(0,0,0,0.3);
+  z-index: 1;
+}
+
 .full-page-hero-title {
   position: fixed;
   z-index: 1;
@@ -13,10 +23,18 @@
   top: 20vh;
   width: 100%;
   color: white;
+  font-family: "Work Sans",Helvetica,Arial,sans-serif;
 }
 
 .full-page-hero-title img {
   margin: auto;
+  max-width: 250px;
+}
+
+.full-page-hero-title h1 {
+  padding: 40px;
+  width: 100%;
+  max-width: 100%;
 }
 
 .background-video {

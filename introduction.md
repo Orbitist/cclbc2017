@@ -1,10 +1,10 @@
 ---
 layout: page
-title: "Introduction"
-lead: "This is a lead."
+title: "Hello"
+lead: "We're the Chautauqua County Land Bank Corporation. It's nice to meet you!"
 image: "img/westfield_home.jpg"
 ---
-# Mission of the Chautauqua County Land Bank Corporation
+# Our Mission
 
 Control and manage strategically selected dilapidated and abandoned residential and commercial properties acquired through the County tax foreclosure process, bank foreclosures and/or donations, and facilitate solutions aimed at stabilizing neighborhoods, encouraging private investment, and improving the quality of life throughout Chautauqua County.
 

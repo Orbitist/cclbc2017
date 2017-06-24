@@ -97,7 +97,7 @@
   -webkit-border-radius: 0.1em;
   border-radius: 0.1em;
   padding: 0 0.03em;
-  color: #648baf;
+  color: rgba(1, 0, 52, 1);
 }
 .odometer.odometer-auto-theme .odometer-digit .odometer-digit-inner, .odometer.odometer-theme-plaza .odometer-digit .odometer-digit-inner {
   left: 0.03em;
@@ -114,6 +114,7 @@
 .number {
   max-width: 500px;
   margin: 100px auto;
+  padding: 10px;
 }
 
 .number-caption {
@@ -129,10 +130,19 @@
   background-color: #cccccc;
   color: white;
   width: 100%;
-  height: 135px;
+  height: 138px;
   text-align: center;
 }
 
 .number .col-xs-2, .number .col-xs-10 {
   padding: 0;
+}
+
+/* SMALL SCREEN OVERRIDES */
+@media (max-width: 500px) {
+
+.number-caption {
+  font-size: 2em;
+}
+
 }

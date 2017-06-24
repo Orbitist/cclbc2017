@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Hello"
-lead: "We're the Chautauqua County Land Bank Corporation. It's nice to meet you!"
+lead: "We're the Chautauqua County Land Bank Corporation.<br/>It's nice to meet you!"
 image: "img/westfield_home.jpg"
 ---
 # Our Mission

@@ -8,6 +8,8 @@ Between 2013–2016, the Chautauqua County Land Bank Corporation secured two sep
 
 Through the generous support of the county Legislature, the Chautauqua County Land Bank has also demonstrated its ability to address blight and stabilize neighborhoods across the county through its Sales 4 Rehab program and creative problem-solving. The Land Bank’s programs will impact vacancy rates and property values, most dramatically in the cities of Jamestown and Dunkirk, where 62 properties have entered the Sales 4 Rehab program and an additional 69 have been or are currently scheduled for demolition. Rural townships participate receive additional resources from the land bank in project management to help these smaller municipalities build capacity to effectively tackle blight in their communities. The Land Bank is shifting the paradigm on how the county deals with tax foreclosed properties by leveraging resources to tackle the glut of vacant, abandoned and condemned properties.
 
+{% include maps/inventory.html %}
+
 # 2016 Results of Acquisitions from the Legislature
 
 {% include charts/property-types.html %}

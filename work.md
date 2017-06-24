@@ -9,6 +9,8 @@ Clearing of debris and regrading at the Portage Inn site in the Village of Westf
 
 Westfield noted the 6th Rehab property to be sold through the Land Bank’s Sales 4 Rehab program
 
+<iframe class="pull-left video" width="560" height="315" src="https://www.youtube.com/embed/n_fFz9IbJmY" frameborder="0" allowfullscreen></iframe>
+
 Jim Caflisch, Director of Chautauqua County Real Property Tax Dept. is elected Chair of the CCLBC Board
 
 The CCLBC launched its new independent web site at www.chautauqualandbank.org

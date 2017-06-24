@@ -19,4 +19,6 @@ The Land Bank moved to new office space at the Fredonia Technology Incubator in 
 
 The Land Bank embarked on a new project with Orbitist.com, a young geo-spacial data analytics and marketing firm located at the Fredonia Tech Incubator to compile and present data on county-wide housing, vacancy, blight and its impacts. Data will be tracked and used to inform the Land Bank’s strategic investments as well as its performance over time. Orbitist will map data and develop multi-media communications to highlight the resulting information for educational, marketing and advocacy applications.
 
+<a href="https://orbitist.space/cclbc/" target="blank" class="btn btn-default btn-lg center-block"><i class="fa fa-mobile"></i> Report Blight in your Neighborhood</a>
+
 The Land Bank successfully applied for three grants, providing vital funding for operations, work force assistance and renovation subsidies for a new program that will cultivate responsible local land lords of quality affordable housing.

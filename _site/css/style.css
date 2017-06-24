@@ -43,7 +43,7 @@ h1 {
   color: #eeeeee;
 }
 
-.btn-default:hover {
+.btn-default:hover, .btn-default:focus {
   background-color: rgba(1, 0, 52, 1);
   color: white;
 }

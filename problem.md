@@ -5,10 +5,10 @@ lead: "Vacancy & Blight in Chautauqua County"
 image: "img/sink_repair.jpg"
 ---
 <div class="number">
-  <div class="col-sm-2">
+  <div class="col-xs-2">
     <span class="fa fa-percent number-icon"></span>
   </div>  
-  <div class="col-sm-10">
+  <div class="col-xs-10">
     <div id="odometer" class="odometer vacancy">00.0</div>
     <script>
       $(window).scroll(function() {

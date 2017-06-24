@@ -1,3 +1,13 @@
+/*
+Small Text: font-family: "Halant","Crimson Text",Georgia,"Times New Roman",serif;
+Headings: font-family: 'Open Sans', sans-serif;
+Large Creative: font-family: 'Indie Flower', cursive;
+
+Blue: #010034  rgba(1, 0, 52, 1)
+Green: #4c9b59  rgba(76, 155, 89, 1)
+*/
+
+
 @import url('https://fonts.googleapis.com/css?family=Indie+Flower|Open+Sans');
 
 body {
@@ -5,27 +15,49 @@ body {
 }
 
 p {
-  max-width: 800px;
+  max-width: 1000px;
   padding-left: 10px;
   padding-right: 10px;
-  margin: 1.4em auto;
+  margin: 1.8em auto;
   line-height: 1.8;
   font-size: 20px;
-  font-family: 'Georgia', 'Times', 'Times New Roman', serif;
+  font-family: "Halant","Crimson Text",Georgia,"Times New Roman",serif;
+  color: #333333;
 }
 
 h1 {
-  max-width: 800px;
+  max-width: 1000px;
+  padding-left: 10px;
+  padding-right: 10px;
   margin: auto;
-  font-family: "Halant","Crimson Text",Georgia,"Times New Roman",serif;
+  font-size: 45px;
+  font-family: 'Open Sans', sans-serif;
+  color: #4c9b59;
+  font-weight: bold;
 }
 
 .btn-default {
   border: none;
   padding: 20px 40px;
-  background-color: rgba(255,255,255,0.8);
+  background-color: rgba(1, 0, 52, 0.8);
+  color: #eeeeee;
 }
 
 .btn-default:hover {
-  background-color: rgba(255,255,255,1)
+  background-color: rgba(1, 0, 52, 1);
+  color: white;
+}
+
+/* SMALL SCREEN OVERRIDES */
+@media (max-width: 500px) {
+
+p {
+  font-size: 16px;
+}
+
+h1 {
+  font-size: 24px;
+  padding: 10px;
+}
+
 }

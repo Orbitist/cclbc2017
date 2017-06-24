@@ -1,5 +1,5 @@
 .hero {
-  height: 75vh;
+  height: 85vh;
   width: 100%;
   margin-bottom: 50px;
 }
@@ -14,7 +14,14 @@
 }
 
 .hero .title-block h1 {
-  font-size: 50px;
+  font-size: 60px;
+  font-family: 'Indie Flower', cursive;
+  color: #eeeeee;
+}
+
+.hero .title-block p {
+  color: #eeeeee;
+  font-family: 'Open Sans', sans-serif;
 }
 
 .page-hero-overlay {

@@ -1,0 +1,52 @@
+<div class="container chart-container">
+  <canvas id="propertyTypesChart" width="948" height="474" style="display: block; width: 500px; height: 450px;"></canvas>
+</div>
+<script>
+
+        var barChartData = {
+                            labels: ["Rehabs", "Demos", "Lots"],
+                            datasets: [
+                              {
+                                label: 'Acquired',
+                                backgroundColor: 'rgba(1, 0, 52, 0.3)',
+                                data: [
+                                    18,
+                                    14,
+                                    16
+                                ]
+                              },
+                              {
+                                label: 'Completed',
+                                backgroundColor: 'rgba(76, 155, 89, 0.3)',
+                                data: [
+                                    12,
+                                    53,
+                                    10
+                                ]
+                              }
+                            ]
+                          };
+        window.onload = function() {
+            var ctx = document.getElementById("propertyTypesChart").getContext("2d");
+            window.myBar = new Chart(ctx, {
+                type: 'bar',
+                data: barChartData,
+                options: {
+                    tooltips: {
+                        mode: 'index',
+                        intersect: false
+                    },
+                    responsive: true,
+                    scales: {
+                        xAxes: [{
+                            stacked: true,
+                        }],
+                        yAxes: [{
+                            stacked: true
+                        }]
+                    }
+                }
+            });
+        };
+
+</script>

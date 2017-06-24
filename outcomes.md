@@ -10,12 +10,31 @@ Through the generous support of the county Legislature, the Chautauqua County La
 
 # 2016 Results of Acquisitions from the Legislature
 
-18 Rehabs Acquired, 12 Rehabs Sold
+{% include charts/property-types.html %}
 
-14 Demos Acquired, 53 Demos Completed
+<div class="number">
+  <div class="col-xs-2">
+    <span class="fa fa-dollar number-icon"></span>
+  </div>  
+  <div class="col-xs-10">
+    <div id="odometer" class="odometer reinvestment">000,000</div>
+    <script>
+      $(window).scroll(function() {
+         var hT = $('.reinvestment').offset().top,
+             hH = $('.reinvestment').outerHeight(),
+             wH = $(window).height(),
+             wS = $(this).scrollTop();
+          console.log((hT-wH) , wS);
+         if (wS > (hT+hH-wH)){
+           setTimeout(function(){
+               $('.reinvestment').html(431145);
+           }, 100);
+         }
+      });
+    </script>
+  </div>
+  <div class="number-caption">Private reinvestment commitments for Rehab renovations</div>
+</div>
 
-16 Lots Acquired, 10 Side lots Transferred
-
-$ 431,145 in private reinvestment commitments for Rehab renovations
 
 # 2016 Financial Overview

@@ -28,6 +28,9 @@
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
 
+  <!-- Chart.js -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.6.0/Chart.min.js"></script>
+
   <!-- Style Sheets -->
   <link href='/css/style.css' rel='stylesheet' />
   <link href='/css/navbar.css' rel='stylesheet' />
@@ -35,6 +38,7 @@
   <link href='/css/hero.css' rel='stylesheet' />
   <link href='/css/footer.css' rel='stylesheet' />
   <link href='/css/odometer.css' rel='stylesheet' />
+  <link href='/css/charts.css' rel='stylesheet' />
 </head>
 
 	<body>
@@ -76,13 +80,82 @@
 
 <h1 id="results-of-acquisitions-from-the-legislature">2016 Results of Acquisitions from the Legislature</h1>
 
-<p>18 Rehabs Acquired, 12 Rehabs Sold</p>
+<div class="container chart-container">
+  <canvas id="propertyTypesChart" width="948" height="474" style="display: block; width: 500px; height: 450px;"></canvas>
+</div>
+<script>
 
-<p>14 Demos Acquired, 53 Demos Completed</p>
+        var barChartData = {
+                            labels: ["Rehabs", "Demos", "Lots"],
+                            datasets: [
+                              {
+                                label: 'Acquired',
+                                backgroundColor: 'rgba(1, 0, 52, 0.3)',
+                                data: [
+                                    18,
+                                    14,
+                                    16
+                                ]
+                              },
+                              {
+                                label: 'Completed',
+                                backgroundColor: 'rgba(76, 155, 89, 0.3)',
+                                data: [
+                                    12,
+                                    53,
+                                    10
+                                ]
+                              }
+                            ]
+                          };
+        window.onload = function() {
+            var ctx = document.getElementById("propertyTypesChart").getContext("2d");
+            window.myBar = new Chart(ctx, {
+                type: 'bar',
+                data: barChartData,
+                options: {
+                    tooltips: {
+                        mode: 'index',
+                        intersect: false
+                    },
+                    responsive: true,
+                    scales: {
+                        xAxes: [{
+                            stacked: true,
+                        }],
+                        yAxes: [{
+                            stacked: true
+                        }]
+                    }
+                }
+            });
+        };
 
-<p>16 Lots Acquired, 10 Side lots Transferred</p>
+</script>
 
-<p>$ 431,145 in private reinvestment commitments for Rehab renovations</p>
+<div class="number">
+  <div class="col-xs-2">
+    <span class="fa fa-dollar number-icon"></span>
+  </div>  
+  <div class="col-xs-10">
+    <div id="odometer" class="odometer reinvestment">000,000</div>
+    <script>
+      $(window).scroll(function() {
+         var hT = $('.reinvestment').offset().top,
+             hH = $('.reinvestment').outerHeight(),
+             wH = $(window).height(),
+             wS = $(this).scrollTop();
+          console.log((hT-wH) , wS);
+         if (wS > (hT+hH-wH)){
+           setTimeout(function(){
+               $('.reinvestment').html(431145);
+           }, 100);
+         }
+      });
+    </script>
+  </div>
+  <div class="number-caption">Private reinvestment commitments for Rehab renovations</div>
+</div>
 
 <h1 id="financial-overview">2016 Financial Overview</h1>
 

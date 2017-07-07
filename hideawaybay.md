@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Hide Away Bay"
+title: "42 Lake Ave, Silvercreek, NY<br>'Hide Away Bay'"
 lead: "Commercial Development Opportunity. 3.8 Acre Waterfront Parcel, Lake Erie."
 image: "img/westfield_home.jpg"
 ---
@@ -10,7 +10,7 @@ The Chautauqua County Land Bank Corporation (CCLBC) and the Village of Silver Cr
 
 The parcel is located on a picturesque, secluded beach with natural barriers on three sides. The northern parcel line is Lake Erie; the eastern parcel boundary is wooded and abuts a residential property; the southern parcel line abuts a sizeable, historic but active railroad berm and trestle; and the western parcel line is Walnut Creek. The site is accessed by a private driveway connected to Lake Avenue. It is zoned commercial for ease of re-development, and the Land Bank does have funds available to assist with demolition activities if appropriate. There exist wetlands, a flood plain, and coastal hazard area considerations on the parcel. Please see the supplemental survey for more information.
 
-The ideal development proposal would feature a water-dependent mixed-use facility consistent with a developing Local Waterfront Revitalization Program with amenities for both public and private use of the site. Responsible development of the natural setting, environmental stewardship, and consideration for the residential neighbors are desired. The Department of Environmental Conservation has participated in our pre-development planning, and will assist where necessary with plan reviews and process facilitation as the site is located within a Coastal Erosion Hazard Area per Environmental Conservation Law (ECL) Article 34.  The construction or placement of a structure, or any action or use of land which materially alters the condition of land, including grading, excavating, dumping, mining, dredging, filling or any disturbance of soil is a regulated activity requiring a Coastal Erosion Management Permit.
+The ideal development proposal would feature a water-dependent mixed-use facility consistent with a developing Local Waterfront Revitalization Program with amenities for both public and private use of the site. Responsible development of the natural setting, environmental stewardship, and consideration for the residential neighbors are desired. The Department of Environmental Conservation has participated in our pre-development planning, and will assist where necessary with plan reviews and process facilitation as the site is located within a Coastal Erosion Hazard Area per Environmental Conservation Law (ECL) Article 34.  The construction or placement of a structure, or any action or use of land which materially alters the condition of land, including grading, excavating, dumping, mining, dredging, filling or any disturbance of soil is a regulated activity requiring a [Coastal Erosion Management Permit](http://www.dec.ny.gov/permits/86547.html).
 
 The CCLBC is soliciting Expressions of Interest outlining conceptual project ideas for this parcel. Submissions are due to the Land Bank by August 15, 2017, and the following information is requested:
 
@@ -20,3 +20,19 @@ The CCLBC is soliciting Expressions of Interest outlining conceptual project ide
 * Timeline: An approximate timeline for the project development and completion should be presented.
 * Stakeholder consideration: Identify stakeholder engagement process and/or past community plans taken into consideration when developing the project.
 * Profile of team or partnership: Provide an overview of developer capabilities, experience with similar projects, and brief description of the team or any potential partners, if known. Letters of support from other stakeholders or organizations may be attached to the Letter of Interest.
+
+<a href="http://www.planningchautauqua.com/?q=content/northern-chautauqua-county-local-waterfront-revitalization-program" target="blank" class="btn btn-default btn-lg center-block"><i class="fa fa-eye"></i> More information on the Northern Chautauqua County LWRP</a>
+
+<a href="documents/hideawaybay_info.pdf" target="blank" class="btn btn-default btn-lg center-block"><i class="fa fa-file-pdf-o"></i> Download this information as a PDF</a>
+
+{% include maps/hideawaybay.html %}
+
+# Contact
+
+Questions should be addressed to the Chautauqua County Land Bank Corporation by email at: gparadis@chautauqualandbank.org or by mail at the address below:
+
+Chautauqua County Land Bank Corporation
+P.O. Box 603
+Fredonia, NY 14063
+
+This will be a two phase solicitation. This solicitation is Phase I, which purpose is to solicit serious interested and qualified parties. Phase II will provide a more detailed discussion between interested parties and the Land Bank Corporation.

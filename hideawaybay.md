@@ -1,12 +1,84 @@
 ---
 layout: page
-title: "42 Lake Ave, Silvercreek, NY<br>'Hide Away Bay'"
-lead: "Commercial Development Opportunity. 3.8 Acre Waterfront Parcel, Lake Erie."
-image: "img/westfield_home.jpg"
+title: "42 Lake Ave, Silvercreek, NY"
+lead: "Commercial Development Opportunity on a 3.8 Acre Waterfront Parcel on the shores of Lake Erie."
+image: ""
 ---
 # Invitation for Expression of Interest (EOI)
 
 The Chautauqua County Land Bank Corporation (CCLBC) and the Village of Silver Creek, NY seek expressions of interest for 42 Lake Ave, previously home to Hide Away Bay Restaurant, a historically popular restaurant and beach bar which was operated from 1972-2001. This 3.8 acre parcel in the Village of Silver Creek is located on the shores of Lake Erie with approximately 460’ of lake frontage and approximately 300’ of frontage on Walnut Creek.
+
+<div class="number">
+  <div class="col-xs-2">
+    <span class="fa fa-tree number-icon"></span>
+  </div>  
+  <div class="col-xs-10">
+    <div id="odometer" class="odometer acres">0.0</div>
+    <script>
+      $(window).scroll(function() {
+         var hT = $('.acres').offset().top,
+             hH = $('.acres').outerHeight(),
+             wH = $(window).height(),
+             wS = $(this).scrollTop();
+          console.log((hT-wH) , wS);
+         if (wS > (hT+hH-wH)){
+           setTimeout(function(){
+               $('.acres').html(3.8);
+           }, 100);
+         }
+      });
+    </script>
+  </div>
+  <div class="number-caption">Acres of pristine waterfront property</div>
+</div>
+
+<div class="number">
+  <div class="col-xs-2">
+    <span class="fa fa-sun-o number-icon"></span>
+  </div>  
+  <div class="col-xs-10">
+    <div id="odometer" class="odometer lake-front">000</div>
+    <script>
+      $(window).scroll(function() {
+         var hT = $('.lake-front').offset().top,
+             hH = $('.lake-front').outerHeight(),
+             wH = $(window).height(),
+             wS = $(this).scrollTop();
+          console.log((hT-wH) , wS);
+         if (wS > (hT+hH-wH)){
+           setTimeout(function(){
+               $('.lake-front').html(460);
+           }, 100);
+         }
+      });
+    </script>
+  </div>
+  <div class="number-caption">Feet of lake frontage</div>
+</div>
+
+<div class="number">
+  <div class="col-xs-2">
+    <span class="fa fa-tint number-icon"></span>
+  </div>  
+  <div class="col-xs-10">
+    <div id="odometer" class="odometer river-front">000</div>
+    <script>
+      $(window).scroll(function() {
+         var hT = $('.river-front').offset().top,
+             hH = $('.river-front').outerHeight(),
+             wH = $(window).height(),
+             wS = $(this).scrollTop();
+          console.log((hT-wH) , wS);
+         if (wS > (hT+hH-wH)){
+           setTimeout(function(){
+               $('.river-front').html(300);
+           }, 100);
+         }
+      });
+    </script>
+  </div>
+  <div class="number-caption">Feet of frontage on Walnut Creek</div>
+</div>
 
 The parcel is located on a picturesque, secluded beach with natural barriers on three sides. The northern parcel line is Lake Erie; the eastern parcel boundary is wooded and abuts a residential property; the southern parcel line abuts a sizeable, historic but active railroad berm and trestle; and the western parcel line is Walnut Creek. The site is accessed by a private driveway connected to Lake Avenue. It is zoned commercial for ease of re-development, and the Land Bank does have funds available to assist with demolition activities if appropriate. There exist wetlands, a flood plain, and coastal hazard area considerations on the parcel. Please see the supplemental survey for more information.
 

@@ -25,6 +25,18 @@ p {
   color: #333333;
 }
 
+.content li {
+  max-width: 900px;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin: 1.4em auto;
+  line-height: 1.8;
+  font-size: 20px;
+  font-family: "Halant","Crimson Text",Georgia,"Times New Roman",serif;
+  color: #333333;
+  list-style-position: inside;
+}
+
 h1 {
   max-width: 1000px;
   padding-left: 10px;

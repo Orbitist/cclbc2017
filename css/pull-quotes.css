@@ -1,0 +1,18 @@
+.pquote p{
+    float: left;
+    width: 300px;
+    color: #030;
+    font-size: 46px;
+    line-height: 0.9;
+    font-style: italic;
+    padding: 13px;
+}
+
+blockquote {
+    margin: 0;
+}
+
+.pquote p:first-letter {
+    font-size: 59px;
+    font-weight: bold;
+}

@@ -2,7 +2,7 @@
 layout: page
 title: "Letter from the Director"
 lead: "Gina Paradis"
-image: "img/westfield_home.jpg"
+image: "img/drone_street.jpg"
 ---
 Impacting communities, strengthening neighborhoods, and improving the quality of life of individuals and families is a tall order, especially in a relatively small, rural, economically challenged region. It certainly cannot be accomplished without the vision and resourcefulness of community and government leaders committed to these ideals. And that is exactly what Chautauqua County has been pursuing through the efforts of the Chautauqua County Land Bank Corporation (CCLBC) and its stakeholders.
 
@@ -13,5 +13,7 @@ Our success is dependent on the collaboration of staff, board members, county an
 A change in location was also in the cards for the CCLBC, as we moved our office out of the County Planning Department and into our own space at the SUNY Fredonia Technology Incubator in May 2016, launched a new web site, and adopted new accounting methodology – changes which enhanced the land bank’s autonomy, access and transparency. We also embarked on an ambitious project to compile and map thousands of data points to more strategically target our efforts, track blighted properties and the impacts of vacancy and abandonment on our communities. Some highlights of our successes this year are featured here in our Annual Report, and we are grateful for everyone who has helped us realize these achievements.
 
 Tackling the issues of blight and its negative impacts requires a multi-pronged approach and the dedication of resources from the public, private and non-profit sectors. It also requires the engagement of our residents. The Chautauqua County Land Bank continues to work diligently with local municipalities and residents to identify vacant and abandoned homes, to leverage resources to remove or repair blighted structures, to mobilize against zombies and irresponsible landlords, and advocate for legislative tools to maximize our effectiveness.  We applaud the local governments who proactively engage in the fight against blight with effective code enforcement, innovative community development initiatives, and thoughtful collaboration. We thank the County leaders who have supported the Land Bank concept and have helped establish and sustain the CCLBC. The assistance and support of our many vendors and sub-contractors, who often go above and beyond to help us achieve our mission.  And we thank the community members who have reached out to us, shared their concerns, their stories and their ideas, and invested in our Rehab projects.
+
+<hr>
 
 <a href="mission" target="blank" class="btn btn-default btn-lg center-block">Our Mission <i class="fa fa-arrow-right"></i></a>

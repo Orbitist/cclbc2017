@@ -2,7 +2,7 @@
 layout: page
 title: "Our Mission"
 lead: "We're the Chautauqua County Land Bank Corporation.<br/>It's nice to meet you!"
-image: "img/westfield_home.jpg"
+image: "img/man_demo.jpg"
 ---
 {General About Video Will Go here}
 
@@ -59,5 +59,7 @@ The Chautauqua County Land Bank Corporation (CCLBC) was designated as one of the
   </div>
   <div class="number-caption">Million in private investment</div>
 </div>
+
+<hr>
 
 <a href="problem" target="blank" class="btn btn-default btn-lg center-block">The Problem <i class="fa fa-arrow-right"></i></a>

@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Outcomes
-lead:
-image:
+lead: ""
+image: "img/drone_beach.jpg"
 ---
 Between 2013–2016, the Chautauqua County Land Bank Corporation secured two separate grants from the NYS Office of Attorney General’s Community Revitalization Initiative Program totaling $2.86 million. This funding has been allocated primarily towards activities related to demolition, vacant lot disposition, acquisition of bank foreclosed properties, administration and marketing (Refer to attached 2016 Financial Audit Report).
 
@@ -40,5 +40,11 @@ Through the generous support of the county Legislature, the Chautauqua County La
 
 
 # 2016 Financial Overview
+
+Statements of Financial Position:
+
+{% include charts/financials.html %}
+
+<hr>
 
 <a href="team" target="blank" class="btn btn-default btn-lg center-block">Our Team <i class="fa fa-arrow-right"></i></a>

@@ -2,7 +2,7 @@
 layout: page
 title: "Our Work"
 lead: "Highlights of 2016 Activities"
-image: ""
+image: "img/demo2.jpg"
 ---
 
 Clearing of debris and regrading at the Portage Inn site in the Village of Westfield marks the completion of the $200,000 demolition. The historic inn sat vacant for almost 20 years after serial foreclosures left her derelict and unsafe. The Land Bank’s demolition funds were used to leverage an additional grant to build an access road and trail head for the Village.
@@ -22,5 +22,7 @@ The Land Bank embarked on a new project with Orbitist.com, a young geo-spacial d
 <a href="https://orbitist.space/cclbc/" target="blank" class="btn btn-default btn-lg center-block"><i class="fa fa-mobile"></i> Report Blight in your Neighborhood</a>
 
 The Land Bank successfully applied for three grants, providing vital funding for operations, work force assistance and renovation subsidies for a new program that will cultivate responsible local land lords of quality affordable housing.
+
+<hr>
 
 <a href="outcomes" target="blank" class="btn btn-default btn-lg center-block">Outcomes <i class="fa fa-arrow-right"></i></a>

@@ -1,8 +1,8 @@
 ---
-layout: page
+layout: page-no-nav
 title: "42 Lake Ave, Silvercreek, NY"
 lead: "Commercial Development Opportunity on a 3.8 Acre Waterfront Parcel on the shores of Lake Erie."
-image: ""
+image: "img/hideawaybay/woods.jpg"
 ---
 # Invitation for Expression of Interest (EOI)
 
@@ -97,14 +97,20 @@ The CCLBC is soliciting Expressions of Interest outlining conceptual project ide
 
 <a href="documents/hideawaybay_info.pdf" target="blank" class="btn btn-default btn-lg center-block"><i class="fa fa-file-pdf-o"></i> Download this information as a PDF</a>
 
-{% include maps/hideawaybay.html %}
+# Interactive Photo Map:
+
+<p><iframe width="100%" height="520" frameborder="0" style="padding:20px;" src="https://orbitist.space/maps/launch/embed/?mapid=6955&mode=embed#18.36/42.54904/-79.17000" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe></p>
 
 # Contact
 
-Questions should be addressed to the Chautauqua County Land Bank Corporation by email at: gparadis@chautauqualandbank.org or by mail at the address below:
+_Email:_<br>
+gparadis@chautauqualandbank.org
 
-Chautauqua County Land Bank Corporation
-P.O. Box 603
+_Mail:_<br>
+Chautauqua County Land Bank Corporation<br>
+P.O. Box 603<br>
 Fredonia, NY 14063
+
+# Solicitation Process
 
 This will be a two phase solicitation. This solicitation is Phase I, which purpose is to solicit serious interested and qualified parties. Phase II will provide a more detailed discussion between interested parties and the Land Bank Corporation.

@@ -41,4 +41,4 @@ Stephen Abdella - Legal Counsel
 
 <hr>
 
-<a href="http://www.chautauqualandbank.org/" target="blank" class="btn btn-default btn-lg center-block">View our Website <i class="fa fa-arrow-right"></i></a>
+<a href="http://www.chautauqualandbank.org/" class="btn btn-default btn-lg center-block">View our Website <i class="fa fa-arrow-right"></i></a>

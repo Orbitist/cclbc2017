@@ -40,4 +40,4 @@ The Chautauqua County Land Bank Corporation’s scope of work mirrors components
 
 <hr>
 
-<a href="work" target="blank" class="btn btn-default btn-lg center-block">Our Work <i class="fa fa-arrow-right"></i></a>
+<a href="work" class="btn btn-default btn-lg center-block">Our Work <i class="fa fa-arrow-right"></i></a>

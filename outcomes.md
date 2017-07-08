@@ -47,4 +47,4 @@ Statements of Financial Position:
 
 <hr>
 
-<a href="team" target="blank" class="btn btn-default btn-lg center-block">Our Team <i class="fa fa-arrow-right"></i></a>
+<a href="team" class="btn btn-default btn-lg center-block">Our Team <i class="fa fa-arrow-right"></i></a>

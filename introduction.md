@@ -16,4 +16,4 @@ Tackling the issues of blight and its negative impacts requires a multi-pronged 
 
 <hr>
 
-<a href="mission" target="blank" class="btn btn-default btn-lg center-block">Our Mission <i class="fa fa-arrow-right"></i></a>
+<a href="mission" class="btn btn-default btn-lg center-block">Our Mission <i class="fa fa-arrow-right"></i></a>

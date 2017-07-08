@@ -62,4 +62,4 @@ The Chautauqua County Land Bank Corporation (CCLBC) was designated as one of the
 
 <hr>
 
-<a href="problem" target="blank" class="btn btn-default btn-lg center-block">The Problem <i class="fa fa-arrow-right"></i></a>
+<a href="problem" class="btn btn-default btn-lg center-block">The Problem <i class="fa fa-arrow-right"></i></a>

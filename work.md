@@ -25,4 +25,4 @@ The Land Bank successfully applied for three grants, providing vital funding for
 
 <hr>
 
-<a href="outcomes" target="blank" class="btn btn-default btn-lg center-block">Outcomes <i class="fa fa-arrow-right"></i></a>
+<a href="outcomes" class="btn btn-default btn-lg center-block">Outcomes <i class="fa fa-arrow-right"></i></a>

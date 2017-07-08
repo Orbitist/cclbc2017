@@ -60,4 +60,4 @@ The Chautauqua County Land Bank Corporation (CCLBC) was designated as one of the
   <div class="number-caption">Million in private investment</div>
 </div>
 
-<a href="problem" target="blank" class="btn btn-default btn-lg center-block">THE PROBLEM <i class="fa fa-arrow-right"></i></a>
+<a href="problem" target="blank" class="btn btn-default btn-lg center-block">The Problem <i class="fa fa-arrow-right"></i></a>

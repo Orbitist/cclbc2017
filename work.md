@@ -22,3 +22,5 @@ The Land Bank embarked on a new project with Orbitist.com, a young geo-spacial d
 <a href="https://orbitist.space/cclbc/" target="blank" class="btn btn-default btn-lg center-block"><i class="fa fa-mobile"></i> Report Blight in your Neighborhood</a>
 
 The Land Bank successfully applied for three grants, providing vital funding for operations, work force assistance and renovation subsidies for a new program that will cultivate responsible local land lords of quality affordable housing.
+
+<a href="outcomes" target="blank" class="btn btn-default btn-lg center-block">OUTCOMES <i class="fa fa-arrow-right"></i></a>

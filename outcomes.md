@@ -40,3 +40,5 @@ Through the generous support of the county Legislature, the Chautauqua County La
 
 
 # 2016 Financial Overview
+
+<a href="team" target="blank" class="btn btn-default btn-lg center-block">OUR TEAM <i class="fa fa-arrow-right"></i></a>

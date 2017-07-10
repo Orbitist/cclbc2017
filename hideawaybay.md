@@ -109,6 +109,9 @@ The CCLBC is soliciting Expressions of Interest outlining conceptual project ide
 
 # Contact
 
+_Phone:_<br>
+716-969-7843
+
 _Email:_<br>
 gparadis@chautauqualandbank.org
 

@@ -23,7 +23,7 @@ Control and manage strategically selected dilapidated and abandoned residential 
           console.log((hT-wH) , wS);
          if (wS > (hT+hH-wH)){
            setTimeout(function(){
-               $('.public-investment').html(2.86);
+               $('.public-investment').html(2.81);
            }, 100);
          }
       });
@@ -34,7 +34,7 @@ Control and manage strategically selected dilapidated and abandoned residential 
 
 # Overview
 
-The Chautauqua County Land Bank Corporation (CCLBC) was designated as one of the first five land banks in NYS, by authority of the New York State Land Bank Act, in 2012. By 2016, the Land Bank secured over $2.86 million dollars in public grant funding, and leveraged over $1.65 million in private investment in the interventions of more than 173 vacant or abandoned properties in the county.
+The Chautauqua County Land Bank Corporation (CCLBC) was designated as one of the first five land banks in NYS, by authority of the New York State Land Bank Act, in 2012. By 2016, the Land Bank secured over $2.81 million dollars in public grant funding, and leveraged over $1.65 million in private investment in the interventions of more than 173 vacant or abandoned properties in the county.
 
 <div class="number">
   <div class="col-xs-2">

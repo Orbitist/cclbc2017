@@ -14,6 +14,8 @@ Through the generous support of the county Legislature, the Chautauqua County La
 
 {% include charts/property-types.html %}
 
+_* Note: Demolitions were acquired from were acquired 2013-2016_
+
 <div class="number">
   <div class="col-xs-2">
     <span class="fa fa-dollar number-icon"></span>

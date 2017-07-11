@@ -8,7 +8,7 @@ image: "img/sink_repair.jpg"
 
 The Chautauqua County Land Bank is made up of a Board of Directors who are appointed by the Chautauqua County Legislature to serve staggered terms. Representation includes 2 members of the Legislature (Democrat and Republican), the Directors of Development from the cities of Jamestown and Dunkirk, a representative of the county Planning Board, the Real Property Tax Director, local representatives from the banking and real estate industries, community development organizations and the general public. We endeavor to be representative across the county.
 
-# CCLBC Board of Directors:
+# CCLBC 2016 Board of Directors:
 James E. Caflisch - Board Chair
 
 John Hemmer - Board Member
@@ -31,7 +31,7 @@ Nicole May - Board Member
 
 Diane Hannum - Board Memeber
 
-# Staff of CCLBC:
+# 2016 Staff of CCLBC:
 
 Gina Paradis - Administrative Director
 

@@ -105,7 +105,7 @@ The CCLBC is soliciting Expressions of Interest outlining conceptual project ide
 
 # Interactive Photo Map:
 
-<p><iframe width="100%" height="520" frameborder="0" style="padding:20px;" src="https://orbitist.space/maps/launch/embed/?mapid=6955&mode=embed#18.36/42.54904/-79.17000" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe></p>
+<p><iframe width="100%" height="620" frameborder="0" style="padding:20px;" src="https://orbitist.space/maps/launch/embed/?mapid=6955&mode=embed#18.36/42.54904/-79.17000" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe></p>
 
 # Contact
 

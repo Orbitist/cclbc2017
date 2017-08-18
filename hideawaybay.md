@@ -94,7 +94,7 @@ The ideal development proposal would feature a water-dependent mixed-use facilit
 
 <img src="img/hideawaybay/woods.jpg" class="img-responsive">
 
-The CCLBC is soliciting Expressions of Interest outlining conceptual project ideas for this parcel. Submissions are due to the Land Bank by August 15, 2017, and the following information is requested:
+The CCLBC is soliciting Expressions of Interest outlining conceptual project ideas for this parcel. Submissions are due to the Land Bank by August 30, 2017, and the following information is requested:
 
 * Conceptual project description: Provide a brief conceptual description of the project, including type of improvements, potential for revenue generation, and other benefits to the community.
 * Project/site suitability: Describe why 42 Lake Ave is best suited for this conceptual project. Include a description of which portions of the parcel, if not the entire site, would be utilized. Describe any site or regulatory challenges and how this project could overcome them.
